@@ -26,7 +26,7 @@
 
 ## Quick start
 
-1. Clone this repo using `$ git clone git@github.com/sjmach/raspberrypi-telegram-bot`.
+1. Clone this repo using `$ git clone git@github.com/sjmach/raspberrypi-telegram-chat-bot.git`.
 2. Visit the link to configure Raspberry Pi and telegram : http://www.instructables.com/id/Set-up-Telegram-Bot-on-Raspberry-Pi/<br />
 3. You will get a token in above step
 4. Change the path of Jenkins and Build Name in the bot.py file
