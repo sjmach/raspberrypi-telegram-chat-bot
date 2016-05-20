@@ -34,8 +34,11 @@
 ```shell
 python bot.py <token>
 ```
+6. You can run special commands like /status (check build status) and /test (to run a build)
 
 
+<img src="https://raw.githubusercontent.com/sjmach/raspberrypi-telegram-chat-bot/master/raspberry-selenium-bot.png"
+alt="Rasberry Pi Telegram CHAT BOT" align="center"  width="150" height="250"/>
 ## License
 
 This project is licensed under the MIT license, Copyright (c) 2016 Sundeep Joseph Machado. For more information see `LICENSE.md`.
