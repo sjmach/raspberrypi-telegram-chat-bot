@@ -17,7 +17,7 @@
   <dd>This helps to know whether your job is running or last job is successful instantaneously</dd>
 
   <dt>Run new jobs</dt>
-  <dd>This helps in craeting new jobs for your configured project</dd>
+  <dd>This helps in creating new jobs for your configured project</dd>
 
 </dl>
 
